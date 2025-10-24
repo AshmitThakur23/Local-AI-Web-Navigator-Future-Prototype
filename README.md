@@ -11,6 +11,25 @@ A refined, UI‑first prototype of a privacy‑centric “Local AI Web Navigator
 
 ---
 
+# Local AI Web Navigator — Future Prototype Demo Photos 
+
+<!-- HERO GALLERY: shows immediately when someone opens the README -->
+<p align="center">
+  <img alt="Preview 1" src="./Screenshot%202025-10-24%20221838.png" width="31%">
+  <img alt="Preview 2" src="./Screenshot%202025-10-24%20221853.png" width="31%">
+  <img alt="Preview 3" src="./Screenshot%202025-10-24%20221902.png" width="31%">
+</p>
+<p align="center">
+  <img alt="Preview 4" src="./Screenshot%202025-10-24%20221922.png" width="31%">
+  <img alt="Preview 5" src="./Screenshot%202025-10-24%20221931.png" width="31%">
+  <img alt="Preview 6" src="./Screenshot%202025-10-24%20221940.png" width="31%">
+</p>
+<p align="center">
+  <img alt="Preview 7" src="./Screenshot%202025-10-24%20222050.png" width="31%">
+  <img alt="Preview 8" src="./Screenshot%202025-10-24%20222120.png" width="31%">
+  <img alt="Preview 9" src="./Screenshot%202025-10-24%20222131.png" width="31%">
+</p>
+
 ## What’s new here compared to the Python repo? 🔁
 
 This repo: [Local-AI-Web-Navigator-Future-Prototype](https://github.com/AshmitThakur23/Local-AI-Web-Navigator-Future-Prototype)  
@@ -76,17 +95,6 @@ These are the key files currently present and what they do.
     - Tailwind paths, base color (slate), CSS variables, and alias mapping (components, utils, ui, lib, hooks).
     - Ensures consistent design-system usage across the app.
 
-- Screenshots (gallery assets)
-  - A curated sequence that documents the “demo mode” flows:
-    - Screenshot 2025-10-24 221838.png
-    - Screenshot 2025-10-24 221853.png
-    - Screenshot 2025-10-24 221902.png
-    - Screenshot 2025-10-24 221922.png
-    - Screenshot 2025-10-24 221931.png
-    - Screenshot 2025-10-24 221940.png
-    - Screenshot 2025-10-24 222050.png
-    - Screenshot 2025-10-24 222120.png
-    - Screenshot 2025-10-24 222131.png
 
 - Other project metadata
   - The repo is TypeScript‑dominant (97.5%), with Tailwind/shadcn CSS (1.4%), and small “Other” files (1.1%).
