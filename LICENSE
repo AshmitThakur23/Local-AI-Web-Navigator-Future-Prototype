@@ -1,21 +1,27 @@
-Copyright © 2026 Ashmit Thakur. All rights reserved.
+Copyright (c) 2026 Ashmit Thakur. All rights reserved.
 
-This software is the proprietary information of Ashmit Thakur. You shall not disclose such information and shall use it only in accordance with the terms of the license agreement you entered into with Ashmit Thakur.
+This repository is provided for educational and reference purposes only.
+
+PERMITTED:
+
+* You may view and download the code for personal learning.
+* You may fork this repository on GitHub.
+* You may submit issues, suggestions, or pull requests.
 
 RESTRICTIONS:
-1. You may NOT use this software for any commercial purpose without explicit written permission.
-2. You may NOT modify, copy, or distribute this software without written consent.
-3. You may NOT reverse engineer, decompile, or disassemble this software.
-4. You may NOT use this software on behalf of any third party.
-5. You may NOT sublicense or resell this software.
 
-VIOLATIONS & ENFORCEMENT:
-The copyright holder reserves the right to take legal action against any unauthorized use, reproduction, modification, or distribution of this software. This includes but is not limited to:
-- Civil lawsuits for damages
-- Injunctive relief to prevent further violations
-- Recovery of legal fees and costs
+* You may NOT use this code in any personal, academic, or commercial project.
+* You may NOT publish, distribute, or re-upload this code (in whole or in part).
+* You may NOT use this code to build or showcase your own applications.
+* You may NOT claim this code as your own work.
 
-NO LICENSE GRANTED:
-This notice does not grant any license, right, or permission to use, modify, or distribute this software. All rights are reserved.
+ATTRIBUTION REQUIREMENT:
+If you share any part of this code (only where explicitly permitted), you MUST give clear credit at the top of the file or project:
 
-This license does not grant you any rights to the trademark or other intellectual property rights of the copyright holder.
+"Original code by Ashmit Thakur (2026)"
+
+NO LICENSE:
+No rights are granted beyond what is explicitly stated above.
+
+ENFORCEMENT:
+Unauthorized use may result in legal action.
