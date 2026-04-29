@@ -314,12 +314,57 @@ Ideas, critiques, and PRs welcome — especially:
 License to be finalized. Assume standard evaluation rights for reviewing the prototype.
 
 ---
+## 👨‍💻 Authors
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/u/181589234?v=4" width="100" height="100" style="border-radius:50%;" alt="Ashmit Thakur"/><br/>
+    <b>Ashmit Thakur</b><br/>
+    <a href="https://github.com/AshmitThakur23">
+      <img src="https://img.shields.io/badge/GitHub-AshmitThakur23-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=001a0d"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/abhinendra9792?v=4" width="100" height="100" style="border-radius:50%;" alt="Abhinendra"/><br/>
+    <b>Abhinendra</b><br/>
+    <a href="https://github.com/abhinendra9792">
+      <img src="https://img.shields.io/badge/GitHub-abhinendra9792-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=001a1a"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/Sriram2272?v=4" width="100" height="100" style="border-radius:50%;" alt="Sriram"/><br/>
+    <b>Sriram</b><br/>
+    <a href="https://github.com/Sriram2272">
+      <img src="https://img.shields.io/badge/GitHub-Sriram2272-ffd700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1500"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/Prajithaa1Parani?v=4" width="100" height="100" style="border-radius:50%;" alt="Prajitha"/><br/>
+    <b>Prajitha Parani</b><br/>
+    <a href="https://github.com/Prajithaa1Parani">
+      <img src="https://img.shields.io/badge/GitHub-Prajithaa1Parani-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0020"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/anshgupta-25?v=4" width="100" height="100" style="border-radius:50%;" alt="Ansh Gupta"/><br/>
+    <b>Ansh Gupta</b><br/>
+    <a href="https://github.com/anshgupta-25">
+      <img src="https://img.shields.io/badge/GitHub-anshgupta--25-ff006e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0010"/>
+    </a>
+  </td>
+</tr>
+</table>
+
+</div>
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0020,100:a855f7&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**Made with ✨ by [AshmitThakur23](https://github.com/AshmitThakur23)**
 
 ⭐ Star this repo · 🤝 Contribute · 🚀 Build the future
 
